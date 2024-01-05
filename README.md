@@ -42,3 +42,14 @@ ruby -v
 irb -v
 rvm -v
 ```
+
+## Using Ruby REPL
+
+```bash
+# Ruby REPL
+irb
+
+# Ruby REPL alternative
+gem install pry
+pry
+```
