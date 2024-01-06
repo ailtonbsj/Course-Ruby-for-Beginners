@@ -20,3 +20,7 @@ string
 EOF
 
 puts multi
+
+name = "Your name"
+name["Your"] = "First"
+print name
