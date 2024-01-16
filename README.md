@@ -54,3 +54,9 @@ irb
 gem install pry
 pry
 ```
+
+## Additionals
+
+```bash
+gem install json
+```
