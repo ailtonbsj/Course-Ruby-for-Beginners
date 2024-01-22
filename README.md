@@ -1,5 +1,5 @@
 # Course Ruby for beginners by Paulino
-![](https://img.shields.io/badge/status-progress-blue)
+![](https://img.shields.io/badge/status-completed-brightgreen)
 
 <p align="center">
 <img src=".github/logo.png">
@@ -55,8 +55,14 @@ gem install pry
 pry
 ```
 
-## Additionals
+## Installing gems
 
 ```bash
 gem install json
+gem install bundler
+
+# bundle -> ruby
+# npm    -> node
+bundle init
+bundle install
 ```
